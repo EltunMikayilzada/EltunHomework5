@@ -14,17 +14,14 @@ B(Example2)
 5. Add a j and a space above the character
 6. Print the symbol on the console
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-	
-
-
-
-
-
-
-
-
-
-
+C(example3)
+1. initialize value to 4528
+2. initialize sum to 0	
+3. We define the val value to be greater than 0 in while
+4. add the remainder of value divided by 10 to sum
+5. divide value by 10 and round down using Math.floor()
+6. print(sum)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 D(Example4)
 1. Set value equal to 5
 2. Set factorial equal to 1
