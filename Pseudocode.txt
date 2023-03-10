@@ -1,0 +1,33 @@
+A(example1)
+1. Set the value variable to 4
+2. Set the pow variable to 3
+3. Set the result variable to 1
+4. Loop through i from 0 to pow 
+5.  multiply the result variable by the value variable
+6. After the loop, output the result variable to the console
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+B(Example2)
+1. Set the value variable to 4
+2. Assign 1 to i and let i be less than value
+3. Set the character variable to a single space
+4. Assign 1 to the number j and let it be equal to less than j value
+5. Add a j and a space above the character
+6. Print the symbol on the console
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+
+
+
+
+
+
+
+
+
+
+D(Example4)
+1. Set value equal to 5
+2. Set factorial equal to 1
+3. Start a for loop with the variable i starting at 1 and increasing by 1 each time until it is equal to or greater than value.
+4. Within the for loop, multiply factorial by the current value of i.
+5. Once the for loop has completed, print the value of factorial to the console.
